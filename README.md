@@ -1,6 +1,7 @@
 # npmdoc-react-ace
 
-api documentation for  [react-ace (v4.2.1)](https://github.com/securingsincity/react-ace#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-ace.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-ace) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-ace.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-ace)
+#### basic api documentation for  [react-ace (v4.2.1)](https://github.com/securingsincity/react-ace#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-ace.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-ace) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-ace.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-ace)
+
 #### A react component for Ace Editor
 
 [![NPM](https://nodei.co/npm/react-ace.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-ace)
@@ -126,7 +127,8 @@ api documentation for  [react-ace (v4.2.1)](https://github.com/securingsincity/r
         "version": "npm run build"
     },
     "types": "types.d.ts",
-    "version": "4.2.1"
+    "version": "4.2.1",
+    "bin": {}
 }
 ```
 
